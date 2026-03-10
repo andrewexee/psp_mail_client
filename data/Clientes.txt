@@ -1,0 +1,6 @@
+# Lista de destinatarios - IESDH
+# Añade un correo electrónico por línea
+# Las líneas que empiezan por # son ignoradas
+
+smurfkrika19@gmail.com
+valorantandrew19@gmail.com
