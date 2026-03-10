@@ -12,6 +12,8 @@ target/
 *.iws
 *.iml
 *.ipr
+data/Clientes.txt
+Clientes.txt
 
 ### Eclipse ###
 .apt_generated
