@@ -2,5 +2,6 @@
 # Añade un correo electrónico por línea
 # Las líneas que empiezan por # son ignoradas
 
-smurfkrika19@gmail.com
-valorantandrew19@gmail.com
+cliente1@gmail.com
+cliente2@hotmail.com
+cliente3@yahoo.com
